@@ -1,0 +1,30 @@
+
+
+.pure-u-1.pure-u-md-1-2.pure-u-lg-1-3 {
+   text-align: center;
+   margin-top: 30px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  padding: 50px;
+  border-radius: 50%;
+  display: inline-block;
+}
+/* Circle background colors */
+.dark {
+  background-color: #00b4a0;
+}
+.medium {
+  background-color: #41d6c3;
+}
+.light {
+  background-color: #6eedd8;
+}
+  /* Text properties */
+  .name {
+  color: white;
+  font-family: 'Nixie One', cursive;
+  font-size: 42px;
+  font-weight: bold;
+}
